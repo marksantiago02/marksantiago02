@@ -8,7 +8,7 @@
 
 <h1 align="center"> Your behavior, not your idea will change the world. </h1>
 
-## A critical and forward thinking fullstack developer && blockchain engineer
+## A critical and forward thinking fullstack blockchain engineer
 
 <p style = "margin-left: 30px">
 Deep understanding of Mathematics and programming algorithm.<br>
@@ -51,6 +51,7 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
+<!--
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=marksantiago02&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
 </p>
@@ -69,3 +70,4 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=marksantiago02&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
+-->
