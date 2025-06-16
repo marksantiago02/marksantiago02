@@ -51,6 +51,97 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
+### Certificates
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%" style="padding: 20px;">
+      <a href="https://www.hackerrank.com/certificates/ef9415d1759e">
+        <img src="https://github.com/marksantiago02/Mark-Santiago/blob/master/frontend/public/certificates/FrontendDeveloperReact.PNG" width="280" alt="Frontend_React"/>
+      </a>
+      <br/>
+      <b>Frontend (React)</b>
+      <br/>
+      <sub>HackerRank</sub>
+    </td>
+    <td align="center" width="33%" style="padding: 20px;">
+      <a href="https://www.hackerrank.com/certificates/3b73e30d28a6">
+        <img src="https://github.com/marksantiago02/Mark-Santiago/blob/master/frontend/public/certificates/SoftwareEngineer.PNG" width="280" alt="Software Engineer"/>
+      </a>
+      <br/>
+      <b>Software Engineer</b>
+      <br/>
+      <sub>HackerRank</sub>
+    </td>
+    <td align="center" width="33%" style="padding: 20px;">
+      <a href="https://www.hackerrank.com/certificates/e7831b1fdb11">
+        <img src="https://github.com/marksantiago02/Mark-Santiago/blob/master/frontend/public/certificates/ProblemSolvingIntermediate.PNG" width="280" alt="Problem Solving"/>
+      </a>
+      <br/>
+      <b>Problem Solving</b>
+      <br/>
+      <sub>HackerRank</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" style="padding: 20px;">
+      <a href="https://www.credly.com/badges/d67fd917-1f71-4df2-86fe-5a61935a75ac/public_url">
+        <img src="https://github.com/marksantiago02/Mark-Santiago/blob/master/frontend/public/certificates/blockchain-fundamentals-certification.png" width="280" alt="Cert 4"/>
+      </a>
+      <br/>
+      <b>Blockchain Fundamentals</b>
+      <br/>
+      <sub>Chainlink</sub>
+    </td>
+    <td align="center" width="33%" style="padding: 20px;">
+      <a href="https://www.hackerrank.com/certificates/388034a6e711">
+        <img src="https://github.com/marksantiago02/Mark-Santiago/blob/master/frontend/public/certificates/NodejsIntermediate.PNG" width="280" alt="Cert 5"/>
+      </a>
+      <br/>
+      <b>Node.js</b>
+      <br/>
+      <sub>HackerRank</sub>
+    </td>
+    <td align="center" width="33%" style="padding: 20px;">
+      <a href="https://www.hackerrank.com/certificates/462373ead5b1">
+        <img src="https://github.com/marksantiago02/Mark-Santiago/blob/master/frontend/public/certificates/PythonBasic.PNG" width="280" alt="Cert 6"/>
+      </a>
+      <br/>
+      <b>Python</b>
+      <br/>
+      <sub>HackerRank</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" style="padding: 20px;">
+      <a href="https://www.hackerrank.com/certificates/02d60d597eb2">
+        <img src="https://github.com/marksantiago02/Mark-Santiago/blob/master/frontend/public/certificates/JavascriptIntermediate.PNG" width="280" alt="Cert 4"/>
+      </a>
+      <br/>
+      <b>Javascript</b>
+      <br/>
+      <sub>HackerRank</sub>
+    </td>
+    <td align="center" width="33%" style="padding: 20px;">
+      <a href="https://www.hackerrank.com/certificates/98FA1416141C">
+        <img src="https://github.com/marksantiago02/Mark-Santiago/blob/master/frontend/public/certificates/RestAPIIntermediate.PNG" width="280" alt="Cert 5"/>
+      </a>
+      <br/>
+      <b>RestAPI</b>
+      <br/>
+      <sub>HackerRank</sub>
+    </td>
+    <td align="center" width="33%" style="padding: 20px;">
+      <a href="https://www.hackerrank.com/certificates/0EAE5B50AC8B">
+        <img src="https://github.com/marksantiago02/Mark-Santiago/blob/master/frontend/public/certificates/SQLAdvanced.PNG" width="280" alt="Cert 6"/>
+      </a>
+      <br/>
+      <b>SQL</b>
+      <br/>
+      <sub>HackerRank</sub>
+    </td>
+  </tr>
+</table>
 <!--
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=marksantiago02&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
