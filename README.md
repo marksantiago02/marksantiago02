@@ -8,30 +8,28 @@
 
 <h1 align="center"> Your behavior, not your idea will change the world. </h1>
 
-## A critical and forward thinking fullstack blockchain engineer
+## A critical and forward thinking Software Engineer
 
 <p style = "margin-left: 30px">
-Deep understanding of Mathematics and programming algorithm.<br>
-6+ years of development experience on projects ranging from small size applications through complex enterprise solutions are taken.<br>
-I can't acclimate with 99.(9)%, Only by sending 100% perfect project my Clients!<br>
-Are you looking for an honest and superior senior full stack developer?<br>
-Please contact me, I will do for you ASAP and my best to create a "Best Quality" project for my customers.
+
+A results-driven Senior Software Engineer with 7+ years of experience in designing, building, and deploying high-impact full-stack web and mobile applications, blockchain decentralized applications, and AI-powered SaaS platforms. Demonstrates deep expertise across front-end, back-end, mobile, and blockchain ecosystems, with a proven track record of delivering scalable, secure, and user-centric solutions.
+<br>
+
 </p>
 
-#### Website Development
-- <b>Front-end</b> :  React.js | Next.js | Gatsby.js | Redux | TailwindCSS | Bootstrap | MUI
-- <b>Back-end</b> : Node.js | Express.js | Nest.js | Laravel 
-- <b>Database</b> : Mysql | PostgreSQL | MongoDB | IPFS
-- <b>CMS</b> : Wordpress | Shopify | Contentful | Headless CMS
-- Amazon Web Services (Lambda, EC2, S3, Secret Manager, SNS, SES, Route53, DynamoDB, etc), Google Cloud Platform, Firebase, Supabase and so on
-  
-#### Blockchain Development
-👍 ERC20 Token Presale Smart Contract using Solidity <br>
-👍 ICO frontend integrated with Smart contract using ethers.js <br>
-👍 NFT marketplaces management Smart contract and Frontend <br>
-👍 Cryptocurrency Wallets <br>
-👍 Solana Arbitrage/Sniper/Copy Trading Bot <br>
-👍 DeFi Solutions <br>
+
+#### Core Competencies:
+- Frontend & Web Applications: React, Next.js, Redux, Vue.js, Tailwind CSS, Java
+- Backend & API Development: Node.js, Nest.js, MongoDB, PostgreSQL, Python, FastAPI, Firebase, AWS
+- Mobile Development: React Native, Flutter, Ionic Capacitor
+- DeFi & Blockchain: Smart contract design and optimization, cross-chain interoperability, Solidity, Hardhat, Rust, Anchor
+- AI & Automation: AI agents and workflows (Python, LangChain, LangGraph, RAG, MCP), integration with communication platforms (Twilio, Vapi, ElevenLabs, OpenAI)
+
+#### Notable Focus Areas:
+- End-to-end full-stack development and system design
+- DeFi protocol architectures, smart contract optimization, and cross-chain solutions
+- AI-driven platforms, including agent development, retrieval-augmented generation (RAG), and API integrations
+- Cloud-native infrastructure, CI/CD pipelines, and DevOps practices
 
 ### Skills and Tools:
 
