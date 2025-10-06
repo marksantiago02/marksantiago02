@@ -92,20 +92,20 @@ A results-driven Senior Software Engineer with 7+ years of experience in designi
       <sub>Chainlink</sub>
     </td>
     <td align="center" width="33%" style="padding: 20px;">
+      <a href="https://www.credly.com/badges/b7015e46-46b3-4b6a-bde5-d8c1ba1c7bb7/public_url">
+        <img src="https://github.com/marksantiago02/Mark-Santiago/blob/master/frontend/public/certificates/AI-fundamentals-certification.png" height = "200" alt="Cert 6"/>
+      </a>
+      <br/>
+      <b>Artificial Intelligence Fundamentals</b>
+      <br/>
+      <sub>IBM SkillsBuild</sub>
+    </td>
+    <td align="center" width="33%" style="padding: 20px;">
       <a href="https://www.hackerrank.com/certificates/388034a6e711">
         <img src="https://github.com/marksantiago02/Mark-Santiago/blob/master/frontend/public/certificates/NodejsIntermediate.PNG" height = "200" alt="Cert 5"/>
       </a>
       <br/>
       <b>Node.js</b>
-      <br/>
-      <sub>HackerRank</sub>
-    </td>
-    <td align="center" width="33%" style="padding: 20px;">
-      <a href="https://www.hackerrank.com/certificates/462373ead5b1">
-        <img src="https://github.com/marksantiago02/Mark-Santiago/blob/master/frontend/public/certificates/PythonBasic.PNG" height = "200" alt="Cert 6"/>
-      </a>
-      <br/>
-      <b>Python</b>
       <br/>
       <sub>HackerRank</sub>
     </td>
@@ -121,11 +121,11 @@ A results-driven Senior Software Engineer with 7+ years of experience in designi
       <sub>HackerRank</sub>
     </td>
     <td align="center" width="33%" style="padding: 20px;">
-      <a href="https://www.hackerrank.com/certificates/98FA1416141C">
-        <img src="https://github.com/marksantiago02/Mark-Santiago/blob/master/frontend/public/certificates/RestAPIIntermediate.PNG" height = "200" alt="Cert 5"/>
+      <a href="https://www.hackerrank.com/certificates/462373ead5b1">
+        <img src="https://github.com/marksantiago02/Mark-Santiago/blob/master/frontend/public/certificates/PythonBasic.PNG" height = "200" alt="Cert 6"/>
       </a>
       <br/>
-      <b>RestAPI</b>
+      <b>Python</b>
       <br/>
       <sub>HackerRank</sub>
     </td>
