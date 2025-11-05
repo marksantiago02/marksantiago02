@@ -3,7 +3,7 @@
     <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
 </p> -->
 <p align="center">
-    <a href="https://app.daily.dev/marksantiago02"><img src="https://api.daily.dev/devcards/v2/ms7ca0kCo13hGskK3qKF6.png?type=default&r=emy" width="356" alt="Mark Santiago's Dev Card"/></a>
+    <a href="https://app.daily.dev/marksantiago2909"><img src="https://api.daily.dev/devcards/v2/ms7ca0kCo13hGskK3qKF6.png?type=wide&r=cx1" width="652" alt="Mark Santiago's Dev Card"/></a>
 </p>
 
 <h1 align="center"> Your behavior, not your idea will change the world. </h1>
