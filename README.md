@@ -1,9 +1,6 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BTC415&label=Profile%20views&color=0e75b6&style=flat" alt="marksantiago02" /> </p>
-<!-- <p align="center">
-    <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
-</p> -->
+
 <p align="center">
-    <a href="https://app.daily.dev/marksantiago2909"><img src="https://api.daily.dev/devcards/v2/ms7ca0kCo13hGskK3qKF6.png?type=wide&r=cx1" width="652" alt="Mark Santiago's Dev Card"/></a>
+    <a href="https://app.daily.dev/marksantiago290"><img src="https://api.daily.dev/devcards/v2/ms7ca0kCo13hGskK3qKF6.png?type=wide&r=cx1" width="652" alt="Mark Santiago's Dev Card"/></a>
 </p>
 
 <h1 align="center"> Your behavior, not your idea will change the world. </h1>
